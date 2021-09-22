@@ -1,0 +1,18 @@
+﻿  MyDebug.cpp
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(151): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 4 拥有了类型“char *”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(151): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(730): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(986): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(986): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(986): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(986): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 4 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(986): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 5 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(986): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 6 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(988): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(988): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(988): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1030): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1616): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1787): warning C4018: “<”: 有符号/无符号不匹配
+  MyDebug.vcxproj -> C:\Users\YoHaa\Desktop\项目-调试器\MyDebug\MyDebug\Debug\MyDebug.exe
+  MyDebug.vcxproj -> C:\Users\YoHaa\Desktop\项目-调试器\MyDebug\MyDebug\Debug\MyDebug.pdb (Full PDB)

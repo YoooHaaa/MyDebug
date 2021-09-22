@@ -1,0 +1,201 @@
+﻿  MyErrorReport.cpp
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\myerrorreport.cpp(26): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“LPVOID”
+  MyDebug.cpp
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(59): error C2664: “BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(59): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(153): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(154): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(159): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(210): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(238): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(242): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(262): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(290): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(325): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(199): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(202): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(218): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(221): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(233): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(236): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(240): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(244): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(257): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(260): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(264): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(280): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(283): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(292): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(300): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(315): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(318): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(327): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(336): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(404): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(404): warning C4302: “类型转换”: 从“void *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(405): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(405): warning C4302: “类型转换”: 从“void *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(422): error C2664: “BOOL DeleteFileW(LPCWSTR)”: 无法将参数 1 从“const char [10]”转换为“LPCWSTR”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(422): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(603): error C2440: “=”: 无法从“const char [40]”转换为“LPCWSTR”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(603): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(604): error C2440: “=”: 无法从“const char [4]”转换为“LPCWSTR”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(604): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(605): error C2440: “=”: 无法从“char *”转换为“LPWSTR”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(605): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(658): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(664): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(664): error C2660: “MyDebug::MyWriteProcessMomory”: 函数不接受 3 个参数
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(676): warning C4244: “初始化”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(681): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(681): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(704): warning C4312: “类型转换”: 从“DWORD”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(709): warning C4312: “类型转换”: 从“DWORD”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(709): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(709): warning C4302: “类型转换”: 从“void *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(709): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(734): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(740): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(740): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(746): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(746): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(752): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(752): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(758): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(758): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(779): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(779): warning C4302: “类型转换”: 从“void *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(779): warning C4312: “类型转换”: 从“int”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(852): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(910): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(918): warning C4311: “类型转换”: 从“void *”到“UINT”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(918): warning C4302: “类型转换”: 从“void *”到“UINT”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(938): warning C4311: “类型转换”: 从“void *”到“UINT”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(938): warning C4302: “类型转换”: 从“void *”到“UINT”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(948): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 1 从“char [256]”转换为“LPWSTR”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(948): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(949): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(949): warning C4302: “类型转换”: 从“void *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(954): warning C4311: “类型转换”: 从“unsigned char *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(954): warning C4302: “类型转换”: 从“unsigned char *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(954): warning C4312: “类型转换”: 从“int”转换到更大的“unsigned char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(955): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(955): warning C4302: “类型转换”: 从“void *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(955): warning C4312: “类型转换”: 从“int”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(966): error C2039: “Eax”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(966): error C2039: “Ebx”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(966): error C2039: “Ecx”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(966): error C2039: “Edx”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(966): error C2039: “Esp”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(966): error C2039: “Ebp”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(968): error C2039: “Esi”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(968): error C2039: “Edi”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(968): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(965): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(965): note: 占位符和其参数预计 6 可变参数，但提供的却是 0 参数
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(965): note: 缺失的可变参数 1 为格式字符串“%p”所需
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“int”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 2 冲突
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“int”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 3 冲突
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): note: 占位符和其参数预计 7 可变参数，但提供的却是 4 参数
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(967): note: 缺失的可变参数 5 为格式字符串“%04X”所需
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(990): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(991): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(998): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(999): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1007): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1012): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1009): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1009): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1195): error C2664: “BOOL ReadProcessMemory(HANDLE,LPCVOID,LPVOID,SIZE_T,SIZE_T *)”: 无法将参数 5 从“DWORD *”转换为“SIZE_T *”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1195): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1209): error C2664: “BOOL WriteProcessMemory(HANDLE,LPVOID,LPCVOID,SIZE_T,SIZE_T *)”: 无法将参数 5 从“DWORD *”转换为“SIZE_T *”
+  c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1209): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1239): warning C4312: “类型转换”: 从“DWORD”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1245): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1246): warning C4312: “类型转换”: 从“DWORD”转换到更大的“void *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1268): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1307): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1331): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1331): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1388): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1388): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1444): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1444): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1500): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1500): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1586): warning C4244: “初始化”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1590): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1590): warning C4302: “类型转换”: 从“void *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1590): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1680): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1680): warning C4311: “类型转换”: 从“void *”到“unsigned long”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1680): warning C4302: “类型转换”: 从“void *”到“unsigned long”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1696): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1696): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1696): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1707): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1717): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1718): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1721): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1723): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1730): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1731): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1731): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1742): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1744): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1748): warning C4312: “类型转换”: 从“DWORD”转换到更大的“char *”
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1739): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: 参见“_wcslwr”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1844): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1883): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1883): warning C4302: “类型转换”: 从“void *”到“int”截断
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1860): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1900): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\yohaa\desktop\项目-调试器\mydebug\mydebug\mydebug\mydebug.cpp(1987): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+  main.cpp
+  正在生成代码...
